@@ -12,7 +12,7 @@ $host    = $_ENV['DB_HOST'] ?? '127.0.0.1';
 $port    = $_ENV['DB_PORT'] ?? '3306';
 $dbName  = $_ENV['DB_NAME'] ?? 'clock_system';
 $username= $_ENV['DB_USER'] ?? 'clock_user';
-$password= $_ENV['DB_PASS'] ?? '';
+$password= $_ENV['DB_PASS'] ?? 'Yz3492k5$!Hz3492k5$!';
 $charset = 'utf8mb4';
 
 $dsn = sprintf('mysql:host=%s;port=%s;dbname=%s;charset=%s',
