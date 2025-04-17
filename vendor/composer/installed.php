@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
         'name' => 'circuitdreamstudios/clock-system',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '28038baa80919423a613852e0b266193b2ad714d',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'dev' => true,
+        'dev' => false,
     ),
     'versions' => array(
         'circuitdreamstudios/clock-system' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '28038baa80919423a613852e0b266193b2ad714d',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
